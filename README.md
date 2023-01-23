@@ -1,4 +1,4 @@
-<center>![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-Sg3iHeZHlrp8TWCCY_BNkr-mMqxPSoiNmSzQRbvtmf6lzNDiWXzg-epqzgglTreL94&usqp=CAU)</center>
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-Sg3iHeZHlrp8TWCCY_BNkr-mMqxPSoiNmSzQRbvtmf6lzNDiWXzg-epqzgglTreL94&usqp=CAU)
 <h1 align="center">Hi 👋, I'm vijay kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
