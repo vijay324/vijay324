@@ -1,4 +1,5 @@
-![1677119484977](https://user-images.githubusercontent.com/81360992/223582996-85d07864-efc6-47af-bf4f-c71b8bd5e375.jpg)
+![Purple Modern Gradient Designer Linkedin Article Cover Image (1)](https://user-images.githubusercontent.com/81360992/234326832-d10a0545-970c-4290-a4c3-37b540b3f984.png)
+)
 
 <h1 align="center">Hi 👋, I'm vijay kumar</h1>
 <h3 align="center">I'm Full stack developer & Ethical hacker from India</h3>
