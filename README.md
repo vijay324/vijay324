@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfilo-red.vercel.app] (My Portfolio)
+- 👨‍💻 All of my projects are available at [https://vijay-one.vercel.app] (My Portfolio)
 
 - 💬 Ask me about **full stack development**
 
 - 📫 How to reach me **ultrainfo.offical@gmail.com**
 
-- 📄 Know about my experiences [https://portfilo-red.vercel.app] (My Portfolio)
+- 📄 Know about my experiences [https://vijay-one.vercel.app] (My Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
