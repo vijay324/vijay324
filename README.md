@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **My Own Projects**
 
-- 👨‍💻 All of my projects are available at [https://vijay.heproai.com] (My Portfolio)
+- 👨‍💻 All of my projects are available at [https://alwayssvk.vercel.app/projects] (My Portfolio)
 
 - 💬 Ask me about **Modern Full Stack Web Development**
 
-- 📫 How to reach me **vijay@heproai.com**
+- 📫 How to reach me **codervijay1@gmail.com**
 
-- 📄 Know about my experiences [https://vijay.heproai.com] (My Portfolio)
+- 📄 Know about my experiences [https://alwayssvk.vercel.app] (My Portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
